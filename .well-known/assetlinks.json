@@ -1,10 +1,14 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.amirhoseinabed0_ops.chelehyar",
-    "sha256_cert_fingerprints": [
-      "85:08:6D:75:3E:1A:D3:94:ED:3E:89:8B:DD:D9:26:ED:FE:C8:4D:B0:1F:1E:4A:1F:B2:5F:7B:12:46:03:45:43"
-    ]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.amirhoseinabed0_ops.twa",
+      "sha256_cert_fingerprints": [
+        "FF:7D:8E:DD:9F:55:BE:7C:6A:AA:B7:85:D5:40:A3:63:8F:4D:BC:B9:D2:FD:B8:9A:3C:C0:FA:0E:43:4F:B2:FF"
+      ]
+    }
   }
-}]
+]
